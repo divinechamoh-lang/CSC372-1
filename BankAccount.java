@@ -1,6 +1,6 @@
 /**
  * BankAccount.java
- *
+ * Divine Chamoh
  * Superclass representing a generic bank account. Holds core account
  * data (owner name, account ID, and balance) and provides basic
  * deposit/withdrawal behavior that subclasses can extend or override.

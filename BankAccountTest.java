@@ -1,6 +1,6 @@
 /**
  * BankAccountTest.java
- *
+ * Divine Chamoh
  * Driver/test class that exercises BankAccount and CheckingAccount
  * with several test cases, including normal deposits/withdrawals and
  * an overdraft scenario.

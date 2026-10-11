@@ -1,6 +1,6 @@
 /**
  * CheckingAccount.java
- *
+ * Divine Chamoh
  * Subclass of BankAccount that adds an interest rate attribute and
  * allows overdraft withdrawals. Any withdrawal that exceeds the
  * available balance is permitted, but a $30 overdraft fee is applied
